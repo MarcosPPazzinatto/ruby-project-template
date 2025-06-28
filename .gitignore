@@ -1,0 +1,6 @@
+.bundle
+/vendor
+*.log
+*.swp
+*.DS_Store
+
