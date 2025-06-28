@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+puts "Installing dependencies..."
+system("bundle install")
+
+puts "Setup completed successfully."
+

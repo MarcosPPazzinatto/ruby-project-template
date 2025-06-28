@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require_relative "../lib/ruby_project_template/main"
+
+require "irb"
+IRB.start
+
